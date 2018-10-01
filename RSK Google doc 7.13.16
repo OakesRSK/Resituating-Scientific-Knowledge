@@ -1,0 +1,508 @@
+##Project Summary[^(I suggest switching editing mode from “Direct Edit” -- the pencil icon on the right of your toolbar -- to “Suggesting” so that your edits are marked like “Track Changes” in MS Word. That way, we can easily see what edits are proposed and we can discuss whether to make the changes before committing to them. -- Jim)]
+
+###Overview
+There is a broad consensus among scientists and science studies scholars alike that publication of research results is a critical and integral part of the research process. Technological innovations such as the Internet have enabled new ways of disseminating information. Yet very little has been done to understand the manner in which published research “outputs” are actually assimilated into the ongoing research process. Very little is known about how scientists actually make use of others’ publications to shape their own work. This project aims to understand the process of assimilating publications in important domains of science. 
+
+
+We focus on systems ecology and genomics because their findings have informed public policy and because they present challenges to traditional understandings of publication as “making public.” Publication will be studied as a process of “resituating” research outputs in a variety of different contexts of use, including lay and policy domains. Ways that scientists interpret and make use of published articles and other products of research produced outside their specialty are of special interest. The project will contribute to understanding an important, understudied aspect of the scientific research enterprise: how new publication practices reaching across different contexts of the use of scientific knowledge can drive change and innovation in scientific institutions. The project will thus contribute to a new “institutional turn” in history, philosophy, and social studies of science toward focus on the development and revision of conventional, collective practices of research. A multidisciplinary team (an anthropologist, two historians, and a philosopher) will conduct eight case studies using interviews, archival research, and concept analysis techniques. This work will support a theory of institutional change and innovation in scientific research.
+
+
+###Intellectual Merit
+This project will advance knowledge in studies of Science, Technology and Society in several ways. First, it extends Morgan’s (2014) notion of “resituation” by analyzing how new findings are carried into ongoing research in new settings where they are put to work. Second, knowledge of the conduct of biological research will be advanced through four case studies of resituation in historical and contemporary systems ecology: (1) models – tragedy of the commons and forecasting/scenario planning; and (2) facts – of human population growth and anthropogenic climate change. Knowledge of genomics research will also be advanced through four contemporary case studies tracking the resituation of: (3) datasets from human genome diversity and mixed ancestry research; and (4) software for analyzing population structure and genomic multivariate statistical data. Third, the study will advance understanding of institutional change in scientific research. In particular, it will develop a model of how scientific publication, understood as a process for making knowledge public and making publics for knowledge, can drive scientific innovation.
+
+###Broader Impacts
+This project will contribute to improved understanding of scientific research processes by researchers, policy-makers, science administrators, and the public. Because it focuses on publication and institutions that may be changed by evolving publication practices, the project has the potential to change the way people think about how new ways of publishing and using research can inform policy discussions in many contexts. The project’s findings and model can inform policy discussions for a wide range of organizations with responsibilities for scientific research or its outputs. For example, as new Internet-based publication forms are adopted, institutions of teaching and learning will change in unanticipated ways. The improved understanding of publication as a process, mechanisms of the resituation of knowledge, and deeper understanding of institutions and institutional change provided by this project may help to improve science education at all levels (including public understanding of science) by leading to improved production, distribution, and use of scientific instructional materials.
+ 
+
+ 
+##Project Description
+
+###Introduction
+ 
+There is a broad consensus among scientists and science studies scholars alike that publication of research results is a critical and integral part of the research process. The publication process links research projects and programs together, distributes new findings as raw material for further work, helps to frame a broader story about what is happening within and among research communities, and disseminates news about specific technical issues. In recent years, technological innovations such as the Internet have enabled a proliferation of new ways of disseminating information. Yet very little has been done to understand the manner in which published “outputs” are actually assimilated into the ongoing research process. We know very little about how scientists actually make use of others’ publications to shape their own work. For example, under what circumstances do scientists incorporate new biochemistry results directly into their ongoing projects? When do scientists use results as suggestions for revising research designs or starting new projects? When are results used as opportunities for instructing students and post-docs? The answers to these questions have both epistemic and organizational implications for studying the research process. Citations and download records are indicators of linkage, but are too crude to reveal reasons, let alone mechanisms of assimilation, for the uptake, use and “resituation” of results of research in new contexts. It is not even clear how often a citation follows from the actual reading of a publication. Yet this shaping is, in an important sense, the reason for conducting the research in the first place.
+ 
+At the same time, changes in communications technology are transforming traditional ways of publishing research and supporting the development of new ways of transmitting and commenting on findings. Publication has become less a static product, like a manufactured good, than an ongoing service in which research outcomes are shaped through repeated interactions with continually modified “publication” workflows. Data underlying conclusions can now be conveniently published and accessed, though they often are not. Many kinds of errors can be identified and corrected easily and efficiently. Conversations about the implications of findings, revision of study designs, and further research possibilities can be carried out in near real time, without regard to geographical location, and in a relatively public manner. These changes seem to portend significant shifts in the ways in which research is conducted, evaluated, and put into practice.
+ 
+We propose to study the changing process of publication “on the ground” by observing ways in which scientists actually acquire, assimilate, and use new research results. We have chosen to carry out these studies on two broad focal domains of contemporary science about which we have prior expertise: systems ecology and genomics. Choosing two domains rather than one affords opportunities for comparative analysis (see Methods below). Ecological and genomic sciences engage different, but overlapping audiences and they both produce a variety of research “outputs” that have been transformed in recent decades by dramatic changes in communications technology and online databases as they simultaneously transform processes of publication and innovate processes for forming new publics.
+ 
+We focus on four types of research products, concentrating on two for each domain of our study: models, facts, datasets, and software. Each is a type of research product that had been studied in the context of the resituation of knowledge (e.g. Howlett and Morgan 2010), or in the context of challenges to conventions of publication, e.g. whether datasets are best published as “supplementary material” to journal articles, in specialized dataset journals, image archives or online databases, and how best to publish, archive, and cite software code (Kelty 2008), or both. We propose to study how scientists not only “push” these products of research into scientific communities by publishing them in an increasing variety of ways, but also track how scientists “pull” them from publication “flows” for purposes that may be quite different than the ones which motivated their production. We will study how scientists actually acquire, assimilate, and use models, facts, datasets, and software through a combination of historical, conceptual, and ethnographic modes of research conducted by a multi-disciplinary team comprised of two historians, a philosopher and an anthropologist. In addition we will consult with sociologists and other scholars from the science and technology studies community (see General Plan of Research Activities).
+ 
+Our case studies will include two kinds of cases from the history of ecological science. The first concentrates on the resituation of two groups of ecological models with respect to research in political economy: tragedy of the commons models, and forecasting, scenario planning, and systems dynamics models. The second kind of case study concentrates on the resituation of ecological facts in two policy arenas: the fact of human population growth and the fact of anthropogenic climate change.
+ 
+Our case studies will also include two kinds of cases from historical and contemporary genomic ancestry studies and biomedicine. The first kind involves the resituation of (1) datasets from the Human Genome Diversity Project (HGDP) between 1991-1998, and (2) datasets from life scientists at the Institute of Human Genetics (Instituto de Genética Humana, IGH) in Bogotá, Colombia. In both, datasets have been used to serve multiple goals and purposes by a variety of scientific and lay users. The second kind involves the resituation of two different open-source computer software packages designed or used for the molecular mapping of human populations: (1) program STRUCTURE developed by geneticist Jonathan K. Pritchard and colleagues in the Departments of Genetics and Biology and Howard Hughes Medical Institute, Stanford to model population structure, and (2) program ARLEQUIN, developed by geneticist Laurent Excoffier and colleagues in the Computational and Population Genetics Laboratory, Institute of Zoology, University of Bern, Switzerland to perform multiple statistical tests on genetic and demographic data.
+ 
+The publication process entails making research outputs of various kinds available for others to use. Following Morgan (2014) and Cartwright (2012) we characterize the propagation of results as having three parts. First, research outputs are desituated (i.e., removed from their local context) in some way. Cartwright describes this in terms of processes of abstraction, Morgan in broader terms to include modeling and labeling according to a taxonomy, all of which she characterizes as “desituation.” Second, the outputs must be moved to a new site, a process we interpret as involving some form of publication — “making public.” Third, outputs are taken up by new workflows, thus becoming inputs for someone else. Each of these steps can employ diverse methods for desituating, transferring, and resituating. Morgan describes three genres of resituation strategies: stepping stones, ladders and bridges, and exemplars. In Morgan’s account each of these contain steps for desituating, transferring, and resituating.
+ 
+We propose to enrich this picture through two revisions to Morgan’s schema. First, we characterize Morgan’s strategies of resituation in more specific and concrete ways. Second, we will explain the phenomenon of resituation more comprehensively by adding a further dimension to the picture: institutions. For example, graduate research programs often make use of “journal clubs” in which laboratory staff meet regularly to review and discuss current scientific literature in great detail. The existence of such clubs is an established institution for resituating research results in new contexts by fitting them into the flow of ongoing work in the new setting.
+ 
+Tracking effects on institutions of resituation processes will be used to answer these important questions:
+ 
+1. How do the ways in which scientists “pull” research results from publications (in an expanding variety of forms, governed by changing institutions) affect our understanding of their assimilation into the ongoing research process?
+2. How do the ways in which scientists “push” research results from expanding and changing publication workflows contribute to changing institutions for resituating research?
+ 
+In brief, how do the expanding technologies of publication enable scientists to innovate publication processes and thus the research enterprise sustained by them? We think the answer lies in an account of institutions that goes beyond traditional accounts of the spread of knowledge by diffusion. We hypothesize that “push” and “pull” activities for both scientists and research organizations are better interpreted in terms of institutions shaping mechanisms of resituation rather than by scientist to scientist diffusion, mediated by publications as static objects of knowledge. Following Gerson (e.g. 2015), we interpret institutions along lines proposed by sociologist Everett Hughes: “a collective enterprise carried on in a somewhat established and expected way” (Hughes 1942). Based on this view, an institution is a complex of collective processes. It is the joining-up, or articulation, of conventional practices that gives institutions their versatility, and also their durability.
+Plan of Case Studies Research Activities
+
+Having some issues with the suggestions feature: I suggest a handy table to summarize our design matrix for the reviewers.
+Domain
+Product
+Site
+Secondary foci
+Approach
+Genomics
+Datasets
+HGDP
+Software (STRUCTURE)
+Ethnographic, conceptual
+Genomics
+Datasets
+IHG
+Software (ARLEQUIN)
+Ethnographic, conceptual
+Ecology
+Models
+Political Economy and Ecology
+Facts (population growth)
+Historical, conceptual
+Ecology
+Models
+Futures/Scenarios
+Facts (climate change)
+Historical, conceptual
+
+By arranging the research categories this way we can see that the specificity of their combinations imply certain mechanisms for resituation and not others. For example, what processes and relationships are needed to resituate datasets in a human genomics lab, as compared to those required for economic models in ecology? 
+We can get more specific about this by thinking about the procedures for pulling in new research products as repertoires of situated and more or less regular activities. Some potential resituation practices include reading, conceptualizing/theory-making, implementation, and reworking. 
+These activities in turn can be compared to existing work in the science studies literature such as boundary objects, bridging strategies, data stories,  theoretical templates, background assumptions, and model construals.
+The same line can be followed for ‘pushing’ activities like publication in journals and websites, depositing data in repositories, making presentations, training researchers from other labs or agencies, and using common platforms such as model organisms and instruments.
+The above categories describing desituation and resituation (and of pushes and pulls) can now be used to develop a more concrete and descriptive work plan. When we know what we are looking for we will know more easily when we find it. But the research plan is also felxible enough that we will expect and be ready for discovering new resituation practices and new procedures for making research findings public. In fact, our plan relies on it.  
+Let’s get a little more specific about what the conceptual work looks like. 
+
+
+Domain: Systems Ecology
+Research product Type: Facts
+Is the world getting warmer due to human activity? Is the human population of the earth growing more slowly (see case study descriptions below)? These are questions about facts, and to fully understand how facts work we need to learn how they are taken up in different contexts of use. In this study we propose to systematically investigate the resituation of facts through conventions of publication, reading, and the formation of publics.
+Morgan (2014) posits that there are a small number of generic strategies for resituating knowledge from one use case to another, and from specific cases to more general ones. We can test and extend this hypothesis by analyzing and refining the mechanisms by which research findings are made public and determining how new publics take them up as matters of concern. Some of these topics have been addressed in Howlett and Morgan’s edited volume How Well Do Facts Travel (2011). However, there has been much productive work conducted since then and some of their findings need to be revisited. Specifically, we take a slightly different approach to the definition of the term ‘fact’. For Howlett and Morgan, facts are “bits” or “pieces of knowledge.” Additionally, “… facts are also recognized to be separable bits of knowledge that can be abstracted from the production context and shared with others” (p. xv). In the same volume Manserus (2011) argued that a fact is knowledge accepted as reliable by a community of knowers. The notion of what constitutes a fact needs to be re-defined in light of this work. There have been many approaches to doing so (e.g. Rheinberger 1997; Bogen and Woodward 1988). We assume a conception of facts as dependent on some relationship to data, understood as “research outputs“ (Leonelli 2015). Based on this conception, we provisionally define a fact to be data interpreted in a specific context of use.
+Resituation changes the context in which data are interpreted, and therefore changes the fact (or changes which fact is appropriate for use in the new context). The creation and resituation of facts requires that there be interpretive stories about the data, a narrative or causal story which its producers and receivers used to interpret the data. Both data and facts are interpreted, but their interpretations are constrained to different degrees and possibly in different respects, depending on their situations/contexts of use. The interpretation of data is influenced by the forms in which it is entered in a published, accessible form, such as the metadata and ontology of a dataset. The interpretation of facts depends on the context of their resituation (Latour 1999, ch. 2). Studying resituation entails studying the publication process because publication (1) makes facts available for use, and (2) contributes to the formation of concerned publics which discuss and use the facts that were thereby made available (Dewey 1927, Warner 2002, Latour 2004). For example, biochemical publications on the molecular processes that govern the relationships of DNA, RNA, and associated protein complexes must be understood and used by geneticists in their very different research setting as genetic phenomena. This implies, in contrast to some approaches, e.g. Latour (1983), that “facts” have different implications in different contexts of production, travel, and use because the institutions that shape their production and assimilation in new contexts do not work like the relatively fixed infrastructure of train tracks.
+We will examine the resituation of the “facts” of population growth and climate change as case studies of what happens when ecological knowledge is resituated into economic and policy work.
+Facts Case Study I. Human Population Growth
+The first ecology case study will follow the publication and uptake of two different representations of population growth: the geometric growth curve and the logistic (S-shaped) curve. Important publications on this subject include Connelly (2009), Robertson (2012), Ehrlich (1968), Ehrlich and Ehrlich (2013), Meadows (1972), and Meadows et al. (1992, 2004). These two representations, one S-shaped, the other a ramp, were the products of two models, one with a density-dependent feedback parameter, and the other without any constraint on continuous growth. We will pay special attention to the changing conventions of publication used in relation to the two curves, and will code the tactics of their resituation. We hypothesize that such changing conventions affected the uptake or “pull” of the facts by various research groups, scientific communities, and other publics.
+Facts Case Study II. Anthropogenic Climate Change
+We will also examine the history of the fact of climate change, especially the so-called “hockey stick controversy” surrounding reports issued by the Intergovernmental Panel on Climate Change. As Paul Edwards showed in A Vast Machine (2010), the status of climate change as a fact depended not only on the context of its production, but also on how it was taken up in new and different workflows. Naomi Oreskes (2004, 2011; see also Oreskes and Conway 2011) has written extensively on this topic. She notes that researchers often adopt a “supply side model” of fact dissemination about climate change: good and true facts will find where they need to go on their own. But on the contrary, Oreskes found that “… facts do not travel ‘naturally’, they have to be made to travel” (2010, p. 157).  We are interested in how these facts travel—how they become available for use, and how they are put to use by the different publics who use them. To that end we will target the conventions of publication, reading, and the formation of publics that structure resistance to, and acceptance of, the fact of anthropogenic climate change. The diverse tactics of resituation in this literature will be coded in the project database, and the correlations between resituation tactics and outcomes characterized.
+Literature relevant to both of these case studies include scholarly publications on population growth and climate change in fields such as demography, population biology, epidemiology, and development studies. Climatology, glaciology, limnology, and geochemistry are also relevant target fields. Finally, the publication process for these facts depends greatly on extra-academic literatures such as governmental and non-governmental organization reports, and popular literatures like newspapers and websites. The work of Shapin and Schaffer (1985), Shapiro (1994, 2003), and Poovey (1998) in relating the history of the notion of “fact” will also be taken into account in analyzing contemporary controversies over resituating the facts of population growth and climate change.
+Research product Type: Models
+Models come in different kinds (abstract objects, mathematical equations, computational algorithms, material models, remnant models, “model” organisms. It may be that there are genres or families of resituation practices proper to certain kinds of models that won’t do as well for others. 
+Models Case Study I. There and Back Again: Resituation of Models Between Ecology and Political Economy
+Significant interactions between the disciplines of ecology and economics have been noted and debated by scholars as long as the two fields have existed, in fact before; commonalities of thought and approach in the study of the exchange of goods and natural history date back at least to Darwin (Gordon 1989). Historians of science have documented these reciprocal influences (e.g Kingsland 1995; Hagen 1992), and there has even been a television documentary touching on the subject (Curry 2011).  There has also been a significant traffic of ideas and methods back into the social and economic sciences. For example, Hannan and Freeman (1977) modeled social organizations according to ecological conventions of adaptation and selection.
+This raises the question of how, by what mechanism, these commonalities came about. We seek to answer this question by examining the propagation of models in ecology and economics, and the processes by which those models are made public and selectively taken up as part of the formation of new publics. Postdoctoral scholar Oakes will study mutual borrowings between ecology and economics in the form of the propagation of models (Oakes 2015). The work will consist of extensive comparative analyses across multiple published literatures, conducting interviews with key figures working between ecology and economics, and visiting two archives.
+The literature analyses will focus on published primary source literature in post-war ecology; the history of science literature on post-war ecology; and several literatures in post-war economics including the neoclassical synthesis, public choice, law and economics, bio-economics, econometrics, and New Keynesian economics. The modeling practices utilized in these different lines of research will be the focus of this aspect of the study. Coded resituation tactics and their relevant attributes will be coded and deposited into the database (see Database Design, below).
+We will conduct interviews with Michael Ghiselin at the California Academy of Sciences (Ghiselin 1976); Geerat Vermeij at UC Davis (Vermeij 2009a); and other relevant actors to be identified in the preliminary stages of the study. Ghiselin has been a significant figure at the intersection of evolutionary biology and economics (Ghiselin 1976) and a founder of the field of evolutionary economics (Ghiselin 1995). Vermeij has applied the framework of economics as a resource game to problems in evolutionary morphology (e.g. Vermeij 2009a, 2009b).
+We will conduct archival research on the Alfred Lotka papers at Princeton University in Princeton, NJ and the Raymond Pearl papers at the American Philosophical Society in Philadelphia, PA. Another relevant collection, Ronald Fisher’s papers, have been digitized and made available by the University of Adelaide, South Australia. The Pearl and Lotka collections are key to understanding the mathematization of population biology, and the development of models (the logistic curve, the Lotka-Volterra equations) that played an important role in the post-war synthesis in economics (e.g. Yellin and Samuelson 1974).
+Models Case Study II. Planning for the Future: Forecasting, Scenarios Planning, and Systems Dynamics
+Predicting and controlling complex phenomena presents serious difficulties to researchers. These difficulties are multiplied if the phenomenon in question is of interest to other audiences. Since the late 19th century, one popular and influential style of modeling the behavior of complex systems was to build elaborate models with many loops and subsystems interacting with each other (Hughes 2011). Cold-war researchers in fields like transportation and urban policy studies adopted the toolkits and approaches of operation research and optimized quantitative modeling (Light 2003). These tools included forecasting with mathematical equations, and “systems dynamics” with simulations and early computer programs (see Edwards in Hughes 2011). Partially in reaction to the heavily quantitative approach to modeling complexity, some figures in business and management have advocated a holistic and qualitative approach called scenario planning, a highly subjective modeling practice involving as much small-group dynamics and story-telling as predictive precision (Shoemaker 1995; Ringland and Schwartz 1998). All three methods will be considered in this project because they were all modeling practices designed to predict and control messy complex real world phenomena. Furthermore, more than one of these different modeling approaches were often practiced by the same modelers.
+We are interested in how these related families of forecasting and systems modeling were publicized and then taken up by diverse groups of practitioners. These models were eventually used for industry, business and, military strategies (Connolly et al. 2012), ecological studies (Watt 2013), and conservation biology (Peterson et al. 2003). We will analyze a large volume of published literature in many different specialties in academic research, business school literature, and corporate publications.
+Oakes will systematically examine multiple published literatures including business history, publications of business schools and corporate research units, and where relevant, economic history and sociology. Oakes will also examine professional forecasting journals such as The International Journal of Forecasting and literature on “futurology” (Ghamari-Tabrizi 2009).
+This investigation will be focused on modeling practices in forecasting, scenario planning, and systems dynamics. Oakes will identify how the models of forecasting, scenario planning, and systems dynamics were produced, made available to and adopted by other practitioners, and how they were modified along the way; this information will be coded and deposited in the database (see Database Design below).
+Interviews with relevant actors in the history of scenario planning will also be conducted: Lyn Jeffreys at the Institute for the Future in Menlo Park, CA; Bob Johansen (formerly of the Institute For the Future); Nils Gilman at UC Berkeley (Gilman 2003); Napier Collyns (formerly of the Global Business Network) in Berkeley, CA. All interviews will be conducted locally, in Davis or the San Francisco Bay Area.
+
+Oakes will also conduct archival research at The Boucher Futures Research Library and the Oxford Futures Library at the Saïd Business School, Oxford University. These libraries hold many relevant resources for this case study, including those associated with Pierre Wack. An executive at Royal Dutch Shell, Wack was a major innovator and popularizer of scenario planning in the oil industry and in political conflict resolution. His personal library and his correspondences have been preserved at the Boucher Futures Research Library, as well as the relevant publications of several scenario forecasting and planning organizations. These include the Center for Futures Research, the Institute for the Future, and the RAND Corporation.
+Domain: Genomics
+Research product Type: Datasets
+We are interested in “mapping”, historically and ethnographically, the reasoning behind dataset production practices that inform fieldwork activities carried out by the Human Genome Diversity Project (HGDP) and the Institute for Human Genetics (IGH). The gene sequencing technologies central to the human genome project emerged in the 1980s alongside the technical innovations needed to produce and maintain internet-accessible databases such as GenBank (NIH 2008). Datasets generated in sequencing work are, in practice, a new form of scientific publication at the individual study level that can be used more or less independently of journal publications describing and interpreting them. Before this mode of publication, such data were published within specialized journal articles, and various kinds of compilations. We hypothesize that in both research networks blood samples have traveled in ways that human subjects cannot and that genomic data extracted from blood travels in ways that blood samples cannot. Through ethnographic and archival research we seek to understand (a) how these two research networks conceived and implemented population sampling strategies; (b) how protocols and standardization processes were resituated within and among research locales and locales in which other uses are more salient; (c) how both datasets and databases are being accessed and consumed by other researchers locally and internationally; (d) how inter-laboratory collaborations are pursued using these samples or data; and (e) what strategies were used to create publics interested in the subjects, samples and data, both on a regional and national scale (IGH) and a global scale (HGDP).
+In order to answer these questions one of the postdoctoral researchers (Barragán) will focus his ethnographic and archival fieldwork on documenting and reconstructing, through oral testimonies and archival research, the production of genomic datasets, their circulation and their publication by researchers affiliated with the HGDP at Stanford University, California (for Dataset Case Study 1, during Year 1), and at the IGH in Bogotá, Colombia (for Dataset Case Study 2, during Year 2).
+Fieldwork at Stanford University will focus on establishing rapport with key scientists participating in the conception, design, execution and conservation of datasets created by the HGDP (e.g. Dr. Marcus Feldman) and with members of the new generation of researchers that have been mining the datasets produced by the HGDP (e.g. Dr. Noah Rosenberg and Dr. Jonathan Pritchard). The PI (Griesemer) and Barragán have previously interacted with these researchers and other faculty in the Department of Biology and the Center for Computational, Evolutionary and Human Genomics (CEHG), and in different academic venues, and have explored the viability of this ethnographic and archival endeavor with them.
+The postdoc will examine how senior researchers narrate and explain the logics driving the production, resituation, and use of datasets derived from population samples gathered through the HGDP. Barragán will ascertain how samples for their project from human populations were tagged with meta-data and how such processes were informed by the fieldwork procedures for collecting ethnic, geographical, linguistic, local, national, racial, or regional information from subjects. A key further goal is then to trace, with interview data and possibly unpublished laboratory archival sources, the ways in which the datasets produced by the HGDP become resituated in research practices and programs involving, for example, new mapping strategies like genome-wide association studies (GWAS) and population migration and ancestry reconstruction.
+
+###Datasets Case Study I. Human Genome Diversity Project (HGDP)
+
+This case study is of the collection of datasets produced by the Human Genome Diversity Project (HGDP) between 1991-1998 (Cavalli-Sforza et al. 1991, Cavalli-Sforza 1997). The HGDP emerged as a parallel enterprise to the Human Genome Project (Kevles and Hood 1992) with the main goal of sampling and archiving the diversity of Homo sapiens at a global scale and enabling research on human evolutionary history. The HGDP targeted isolated populations and ethnic minorities with a sense of urgency due to the possibility that these populations would soon physically disappear or mingle with larger population groups. Under the direction of geneticist Luigi Cavalli-Sforza the HGDP mobilized researchers in different parts of the world into a sampling enterprise that yielded datasets containing information derived from about 1050 samples from individuals representing fifty-two populations (Cavalli-Sforza 1997). Today, these samples are preserved in the form of cultured lymphoblastoid cell lines. These “data” are known as the Human Genome Diversity Cell Line Panel, stored and managed by the Centre d’Étude du Polymorphisme Humain (CEPH) at the Fondation Jean Dausset in Paris, France (HGDP-CEPH 2015). Although the HGDP has been the subject of social analyses (Lock 1997, M’charek 2005, Reardon 2005), the core of anthropological and sociological scholarship has focused mainly on the ethical controversies it generated over the enrollment of ethnic minorities and issues of biocolonialism (Diversity 1996). Little attention has been devoted to epistemological issues associated with its dataset production and circulation practices (see Gannet 2001).
+Datasets Case Study II. Institute of Human Genetics (IGH).
+
+
+The second case study will be of the datasets being produced by life scientists at the Institute of Human Genetics (Instituto de Genética Humana, IGH) in Bogotá, Colombia. Since its creation in the 1980s, researchers at the IGH have focused on human population genetics and the implementation of a systematic research agenda for ancestry and biomedical studies among ethnic groups in the country — particularly Native Americans and Afro-Descendants (see Gómez, Bernal and Briceño 2007; Ordóñez et al. 2006; Barragán 2012). In 2000, the IGH made public the first comprehensive genetic and epidemiological maps for ethnic minorities in Colombia, displaying evidence for ancestral patterns of relatedness and genetic distance between pre-Columbian and contemporary Native Americans as well as patterns of genetic admixture between them, Whites and Africans (Bernal 2000). Since the 1980s, IGH researchers have built protocols for sampling strategies, and for the collection, storage, extraction and sequencing of DNA samples that are both responsive to international standards and attentive to local and regional historical, geographic and political subtleties. Today, IGH’s Biological Bank is one of the most comprehensive DNA sample and digital sequence repositories for Colombian ethnic minorities.
+
+By the 1990s, the HGDP and IGH research networks knew about each other’s agendas, but they carried out fieldwork and laboratory analyses independently and sought to understand the peopling of earth with different foci of interest. The HGDP pursued global scale sampling with sparse population representation. On the other hand, since the 1980s, the IGH has worked at a regional scale (the Northern part of South America belonging to Colombia) but using a larger size sample. These differences, we hypothesize, will be affected by institutional factors that alter the array of tactics suited to resituating their respective datasets in different research and public contexts.
+
+###Research product Type: Software
+In addition to understanding datasets as a type of research product, we are interested in understanding (a) how biologists and geneticists also became software developers who designed and published open-source software to analyze data of the kinds recorded in their datasets, (b) how the encoding algorithms in software (in contrast to variables in mathematical models) transform the production of datasets (while collecting, rendering and comparing samples, etc.) as well as the practices of researchers using the software either with the same or different datasets; (c) what different assumptions do the software packages in our two software case studies make about data inputs and how they generate particular research outputs not available without the software.
+
+In order to answer these questions, Barragán will also document how life scientists design, test, and make public the statistical software packages they use to analyze the datasets from the Stanford University (HGDP) and Bogotá (IGH) projects during his fieldwork for the dataset case studies. Barragán will follow ethnographically how life scientists in both countries deploy these tools for the specific purpose of mapping patterns of diversity among human populations. The analysis of these uses is not only local to the research networks but also global in the sense that abstractions, goals, interfaces, methods, and standards associated with the production, publication, and use of the software are also resituated in order for researchers world-wide to explore scientific models for the study of human variation. These two software packages literally work as push and pull processes for the generation of new data and its interpretation in many locations and a wide range of research programs.
+
+###Software Case Study I. STRUCTURE
+
+The first software case study will examine the software package “STRUCTURE.” Jonathan K. Pritchard and colleagues conceived this software as a way to explore research question in evolutionary biology and genomics (Pritchard, Stephens and Donnelly 2000; Falush, Stephens and Prichard 2003, 2007; and Hubisz et al. 2009). Released to the public in 2000, STRUCTURE is a model-based clustering program for deducing population structure. The software detects population subdivisions within samples used to generate multilocus genetic data by assigning one or more populations to clusters probabilistically under varying conditions.
+
+###Software Case Study II. ARLEQUIN
+
+The second software case study is an investigation of the statistics package ARLEQUIN. This software package was designed by geneticist Laurent Excoffier and colleagues at the “Computational and Population Genetics Laboratory” of the Institute of Zoology, University of Bern, Switzerland (Excoffier et al. 2005, 2006). ARLEQUIN was released to the public via Internet for the first time in 1995. Its interface was designed to facilitate the use of multiple statistical methods by population geneticists to evaluate genetic and demographic data and hypotheses. Although there are many free statistical packages (Excoffier and Heckel 2006), STRUCTURE and its successors have increasingly risen as a canonical tool in the study of contemporary human populations (e.g. Rosenberg et al. 2002; Horton 2003), while statistical packages like ARLEQUIN still retain popularity among human population geneticists.
+ 
+General Plan of Research Activities
+The two years of research proposed here involve several kinds of activities in an order designed to achieve several goals: (1) articulation, interpretation and evaluation of concepts, (2) data collection and analysis, and (3) evaluation of results and dissemination of answers to our key theoretical research questions and findings from our empirical research. The plan is presented in Table 1.
+
+Table 1. Plan of Research Activities
+ 
+Activity
+Year 1
+Year 2
+PD Barragán
+Fieldwork/Interviews/Library
+Fieldwork/Interviews/Library
+PD Oakes
+Archives (APS, Princeton) /Interviews/Library
+Archives (Oxford) /Interviews/Library
+Visitor/Collaborator
+Fall: Gerson, Morgan, Leonelli
+ 
+###Graduate Seminar
+Fall: Institutional Turn
+ 
+###Workshop
+Fall: Local Team Seminar and Workshop
+Fall Regional Workshop, e.g. with Berkeley, UCLA
+ 
+###Spring Conference
+Fieldwork travel to research sites to collect interview data, research in archives and libraries, internet searches, and literature reviews will take place throughout the two years of the project. Activities particular to the two empirical domains of study (systems ecology, genomics), research product types (models, facts, datasets, and software), and case studies are reported below for each.
+During Fall academic term of Year 1 (roughly October - December 2016, assuming a project start date of 9/1/2016), we will organize and conduct a seminar for interested graduate students affiliated with the Science and Technology Studies Program (through a variety of graduate degree programs at UC Davis). In conjunction with the seminar, the project participants will conduct intensive working group meetings during each week of the quarter. The focal theme of the seminar and the working group meetings will be: “Taking the institutional turn in history, philosophy, and social studies of science.”
+We propose to bring three visitors to campus during Fall quarter of Year 1 to contribute training activities in both the seminar (for graduate students) and working group meetings (for project participants): sociologist Elihu Gerson (Tremont Research Institute, San Francisco) once per week for five weeks during the Fall teaching term, philosopher of social sciences Mary Morgan (London School of Economics and Policy) for one intensive week, and philosopher of biology Sabina Leonelli (Exeter University) for one intensive week. Gerson is an expert in sociology of work organization and has recently been developing theoretical work toward articulating what we are calling an “institutional turn.” Morgan is an expert on history and philosophy of economics in practice, with expertise important to our project on models in economics (Morgan 2012), facts and how they travel (Howlett and Morgan 2011), and on the resituation of knowledge (Morgan 2014). Leonelli is an expert on data sciences, particularly genomics, whose work on data and databases is important to our project; she is also one of the contributors to Morgan’s traveling facts project (Leonelli 2011).
+
+
+In Winter term of Year 1 (January-March, 2017), the PI’s focus will be on theoretical and concept work, work by the two post-docs will focus on fieldwork.
+
+
+In Spring of Year 1 (April-June), the project participants and any graduate students with continuing interest in the project will spend a full day evaluating progress on the project and planning for dissemination of preliminary results in working papers and conference presentations as well as designing a regional workshop to be held in the Fall of Year 2 and a national conference to be held in Spring of Year 2 (see description of Year 2 activities below).
+
+
+Post-docs and PI will continue work throughout the summer, processing the year’s fieldwork, building a database (see below), and planning Year 2 activities.
+Fieldwork will continue throughout Year 2. In Fall academic term, we will convene a regional workshop, inviting a group of approximately 10 participants outside the project personnel from nearby universities (e.g. Berkeley, UCLA, UCSD) with interests in institutional perspectives on the phenomena and concepts central to our project. This workshop will be designed by the project team during Spring of Year 1, with invitations going out before summer of Year 1.
+
+Winter of Year 2 will again be fieldwork intensive, but we will also continue interpreting data we already have in hand and planning for various forms of presentation and publication of results. Detailed arrangements for the Spring conference, with organizing help from the Center for Science and Innovation Studies led by co-PI Mario Biagioli, will also be completed.
+
+
+Spring of Year 2 will focus on a conference with national participation hosted at UC Davis. The aim of the conference is two-fold: to present the current status and findings of the project and to bring together scholars interested in analyzing institutions from critical perspectives related to the kinds of theoretical and empirical work we are doing.
+
+
+###Database: Resituation Tactics
+As we conduct fieldwork, collect and analyze data from our case studies and articulate concepts through which to understand and interpret new forms of publication, processes of resituation, and the character, roles, and changes in research institutions we identify, we will design and build a database to track and code the diverse tactics of resituation according to our developing schema. There are already a handful of classificatory concepts available for coding. These include Cartwright’s notions of ladders of abstraction, and horizontal and vertical search (Cartwright 2012). Others are Morgan’s generic strategies (Morgan 2014), and Gerson’s notions of registration of findings to a new situation, and addressing problems of adapting to new phenomena (Gerson 2015). We will develop new codes and refine the existing ones as we pursue our ethnographic, archival, and literature research.
+We will use Excel spreadsheets to prototype the database and then evaluate whether a relational, online accessible database would be a worthwhile extension of the prototype and possible vehicle for disseminating our data (see Data Management Plan).
+ 
+##Methods
+ 
+This collaborative research project will include (1) ethnographic, (2) conceptual, and (3) historical modes of research. Each of the primary personnel will contribute to the cross-training of the other personnel in the methods with which they have expertise.
+ 
+###Observation
+ 
+Our study focuses on the changing process of publication “on the ground” by observing ways in which scientists actually acquire, assimilate, and use new research results.
+ 
+Observation will involve all three modes of research. (1) The two post-doctoral personnel will make ethnographic observations through semi-structured and free-form interviews (see below). (2) They and the PI will conceptualize, interpret, and analyze research publications (see below) in the four types of research products we will track. (3) The post-doctoral staff will make historical observations by analyzing publications, archived unpublished work, and the data resulting from interviews. The co-PI (and the three visiting participants) will provide guidance and oversight on research methods, data collection, analysis, and interpretation of results as well as facilitating contact with relevant experts and literature sources.
+ 
+###Comparative Analysis
+ 
+The study has a qualitative, hierarchical design with 8 case studies falling in 4 product types in 2 scientific domains. The two domains are: systems ecology (E) and genomics (G). The four product types are: facts (F), models (M), datasets (D), and software (S).
+ 
+The eight case studies are: F1 (human population growth), F2 (anthropogenic climate change), M1 (tragedy of the commons), M2 (forecasting/scenario), D1 (human genome diversity, HGDP), D2 (human genetic ancestry and biomedicine, IGH), S1 (software package STRUCTURE), S2 (software package ARLEQUIN).
+ 
+This gives us a large variety of potential pairwise comparisons to consider in our analysis: seven direct comparisons and ten cross-category comparisons:
+ 
+a. 2 cases x 2 product-types x 2 domains = 4 comparisons within product types within domains) at the case by case level (F1 x F2, M1 x M2, D1 x D2, S1 x S2).
+b. 2 product-types x 2 domains = 2 comparisons at the product-type level within domains (F x M, D x S)
+c. 2 domains = 1 comparison at domain level.
+d. 2 cases x 2 product-types x 2 domains = 8 cross category comparisons at case level
+e. 2 product-types x 2 domains that “make sense” at product-type level: F x D, M x S = 2 cross category comparisons at product-type level
+f.   Of course, there are 2 cases x 4 product-types x 2 domains = 16 case level comparisons possible, but not all of these seem sensible to compare, e.g. F1 x S2. It seems plausible, though not necessarily the case, that facts and data may have similarities and differences worth comparing across resituation events, and the same may hold for models and software, though in each case, the differences may outweigh the similarities. We anticipate that our empirical research will lead to the discovery of patterns and the identification of properties that make some of these comparisons more salient than others for understanding and interpreting resituation phenomena.
+ 
+We will draw upon standard texts and methods reviews to inform our practices of comparative analysis (e.g. Tarrow 2010).
+ 
+###Interviews
+ 
+Interviews will focus on eliciting information about the ways in which new publications are used to support respondents’ research, whether as methodological, theoretical, or conceptual stimulation; confirmation or other support for developing aspects of respondents’ research, or identification of potential objections and/or pitfalls in respondents’ research.
+ 
+These core concerns will be supplemented with appropriate background information on respondents and their research projects. Special attention will be paid to characteristics that are significant in the light of the domains and research product types specified above. Study staff will inform one another of findings on an ongoing basis, so that interviewing can be supplemented or modified to take account of comparative findings.
+ 
+We will draw upon standard texts for qualitative fieldwork methods to inform our practice (Charmaz 2014, Strauss 1987).
+ 
+###Archival History
+ 
+Archival research will focus on obtaining information about the ways in which new publications are used to support respondents’ research, whether as methodological, theoretical, or conceptual stimulation; confirmation or other support for developing aspects of subjects’ research, or identification of potential objections and/or pitfalls in subjects’ research.
+ 
+These core concerns will be supplemented with appropriate background information on subjects and their research projects. Special attention will be paid to characteristics that are significant in the light of the domains and product types specified above. Study staff will inform one another of findings on an ongoing basis, so that interviewing can be supplemented or modified to take account of comparative findings.
+ 
+In addition to standard qualitative methods texts, we will draw on addition sources on methods appropriate to historical material (e.g. Gerson, in press).
+ 
+###Literature Reviews
+ 
+Literature reviews will consider the expanded variety of publications and other research outputs, such as datasets, figures and images, and software. These may require new or different search strategies, for example, searching for material that does not have a digital object identifier, or for material circulated by alternative means, such as flash drives exchanged at scientific conferences. We will conduct standard keyword searches of Web of Science, Google Scholar, and other online databases. We will also use information provided by interview subjects on other kinds of literature, publications, and “gray” literature to craft searches of other forms of publications for purposes of literature review.
+ 
+We will conduct literature reviews on the three core concepts of the project: (1) publication and the changing publication landscape for academic science; (2) the emerging literature on resituation of knowledge and allied concepts such as generalization, extrapolation, export, and travel in philosophy of science (e.g. Cartwright 2012; Howlett and Morgan 2010; Morgan 2014; Griesemer 2013, 2015); and (3) literature on institutions across the social sciences. We will also conduct more specialized reviews to survey literature on our four research product categories: facts, models, datasets/databases, and software, in part guided by our visiting participant trainers through the seminar in Fall of Year 1 as well as from suggestions resulting from interviews.
+ 
+Concept Articulation, Interpretation and Analysis
+ 
+We will bring together findings from literature reviews to generate and articulate core concepts. Interpretation will be based on arguments deriving from a variety of sources: our own previous work, interview data, input from trainers and visiting participants, and critical responses to our work. We will thoroughly evaluate our concepts and their performance in interpreting findings relative to other concepts in the literature that have been applied to our research product categories (facts, models datasets, software) and in light of the theoretical and philosophical literature on resituation and institutions.
+ 
+Database Design
+ 
+Finally, we will design and implement a concept database that we will use to code empirical data (interviews, archival material, literature reviewed, and concepts articulated). As described above, we will prototype the database with Excel spreadsheets and then consider building a relational database if that proves valuable and important to the development, preservation, publication, and archiving of our data and findings. As we prototype and build the database for the use of our project team, we will consider whether putting such a database online is an appropriate means of archive and disseminating our data and making them accessible (see the Data Management Plan). Our methods will involve consideration both of the value of databases and methods for building them (e.g. Date 2003, Kent 1978).
+ 
+Results from Prior NSF Support
+James Griesemer
+SES-1431514 (see Jason Oakes)
+ 
+Jason Oakes
+SES-1431514, Postdoctoral Fellowship: A History of the Future: The Biology of Systems 1945-1975, James Griesemer PI, September 1, 2014 - August 31, 2016, $170,169.
+This research in progress is characterizing the history of the “systems” approach in biology between 1945 and 1975, with an emphasis on efforts to model global population growth and resource consumption. The systems approach was a distinctive style of conceptualizing, organizing, and implementing work in scientific fields that dealt with problems of complex processes and organizations. This project is examining the relationships between systems research in biology, management, economics, and planning.
+Refereed conference presentations in 2015
+The History of Science Society, San Francisco
+The International Society for the History, Philosophy, and Social Studies of Biology (ISHPSSB), Montreal, Quebec.
+ Articles submitted and in preparation
+“Propagation of the Model in Garrett Hardin’s Tragedy of the Commons:  A Case Study.” Submitted to Isis December, 2015.
+“Garrett Hardin’s Tragic View of Life,” in preparation for Endeavour
+“Rent Seeking and the Tragedy of the Commons: Two Approaches to Problems of Collective Action,” in preparation for the Journal of Bioeconomics.
+“The Birth of Tragedy,” in preparation.
+
+Broader Impacts
+This project will contribute to improved understanding of scientific research processes by policy-makers, science administrators, and the public. It will provide important information and improved understanding of the changing scientific publication process and how it affects the conduct and utility of scientific research outputs. This information in turn will support a variety of activities in the larger society. For example, the project will help to improve integration of education and research by enabling better analyses of how changes in publication practice are likely to affect the educational process. Our findings should inform choices about the use of datasets and other types of research outputs distinct from published journal articles in the classroom.
+Similarly, those involved in the design and administration of next-generation research support platforms will benefit from a better understanding of the publication distribution and curation trade-offs they face in coping with the proliferating kinds of research products scientists are producing. At present, designers of new kinds of scientific journals, e.g. with open peer-review, post-publication peer review, or versioning of publications, are mostly concerned with the technologies needed to implement these strategies in ways useful to scientists, but there is little attention to the ways in which these changes affect the assimilation and conduct of scientific work. This project will contribute to understanding feedback from changing publication institutions to the choices scientists make in the production of scientific work.
+The project will show planners, educators, administrators, and policy-makers where in the system of connected institutions of scientific education they are likely to be able to make a difference, particularly where institutions bear on publication practices and policies. 
+The project will disseminate its findings broadly by conducting a graduate seminar, holding a workshop and conference and publishing its results in a variety of venues and forms. The genomics and systems ecology case studies will be of interest to a wide range of graduate students, researchers, and policy analysts from all levels of government. The syllabus and some content of the graduate seminar will also be internet-accessible by the public and linked to a web-representation of the project and its findings.
+The project will broaden participation of underrepresented groups by hiring a representative from one of those groups as a post-doctoral scholar. It will also encourage members of underrepresented groups or who study the impacts of science and science policies on underrepresented groups at UC Davis. These students will be encouraged to participate in the Year 1 seminar through advertising of our research activities and seminar and encouraging interested graduate students to develop research projects related to the topics of our proposal. The regional workshop and national conference will provide further opportunities to disseminate research findings from the project that may interest research participation by members of underrepresented groups at other universities and colleges.
+
+ 
+References Cited
+ 
+Barragán, Carlos Andrés. 2011. “Molecular Vignettes of the Colombian Nation: The Place(s) of Race and Ethnicity in Networks of Biocapital”. In: Gibbon, Sahra; Ricardo Ventura Santos and Mónica Sans (eds.), Racial Identities, Genetic Ancestry and Health in South America, pp. 41-68. New York: Palgrave Macmillan
+Bernal Villegas, Jaime Eduardo, ed. 2000. Geografía Humana de Colombia. Variación Biológica y Cultural en Colombia. Tomo I. Bogotá: Instituto Colombiano de Cultura Hispánica.
+Bogen, James, and James Woodward. 1988. Saving the Phenomena. The Philosophical Review 97(3): 303-352.
+Cartwright, N. 2012. “Will This Policy Work for You? Predicting Effectiveness Better: How Philosophy Helps”. Philosophy of Science 79: 973-989.
+Cavalli-Sforza, L. L.; A. C. Wilson, C. R. Cantor, R. M. Cook-Deegan and M. C. King. 1991. “Call for a Worldwide Survey of Human Genetic Diversity: A Vanishing Opportunity for the Human Genome Project”. Genomics 11(2): 490-491.
+Cavalli-Sforza, L. L. 1997. “Human Genome Diversity: Where Is the Project Now?”. In: Knoppers, Bartha Maria; Claude M. Laberge and Marie Hirtle (eds.), Human DNA: Law and Policy, pp. 219-227. London and Boston: Kluwer Law International.
+Charmaz, K. 2014. Constructing Grounded Theory. 2 Ed.  Thousand Oaks, CA: SAGE Publications.
+Connelly, Matthew James. 2009. Fatal Misconception: the Struggle to Control World Population. Cambridge: Harvard University Press.
+Connelly, Matthew, Matt Fay, Giulia Ferrini, Micki Kaufman, Will Leonard, Harrison Monsky, Ryan Musto, Taunton Paine, Nicholas Standish, and Lydia Walker. 2012. AHR Forum “General, I Have Fought Just as Many Nuclear Wars as You Have”: Forecasts, Future Scenarios, and the Politics of Armageddon.” American Historical Review 117(5):1431-1460.
+Curry, Adam. 2011. All Watched Over by Machines of Loving Grace, directed by Adam Curry. British Broadcasting Corporation: BBC Two. Video.
+Date, C. J. 2003. An Introduction to Database Systems, 8th Ed. Reading: Pearson.
+Dewey, John. 1927. The Public and Its Problems [an Essay in Political Inquiry] by John Dewey. New York: Holt.
+Diversity. 1996. “NAS Panel Hears Charges of ‘Biocolonialism’ over Human Genome Diversity Project”. Diversity A News Journal for the International Genetic Resources Community 12(3): 3.
+Edwards, Paul N. 2011 “The World in a Machine.” In Hughes, Agatha C. Systems, Experts, and Computers: The Systems Approach in Management and Engineering, World War II and after. Cambridge: MIT Press.
+Edwards, Paul N. 2010. A Vast Machine: Computer Models, Climate Data, and the Politics of Global Warming. Cambridge: MIT Press.
+Ehrlich Paul, R., 1968. The Population Bomb. Ballantine: New York.
+Ehrlich, Paul R., and Anne H. Ehrlich. 2013. “Can a Collapse of Global Civilization be Avoided?” Proceedings of the Royal Society of London B: Biological Sciences 280(1754): 20122845.
+Excoffier, Laurent and Gerald Heckel. 2006. “Computer Programs for Population Genetics Data Analysis: A Survival Guide”. Nature Review Genetics 7: 745-758.
+Excoffier, Laurent; Guillaume Laval and Stefan Schneider. 2005. “Arlequin Version. 3.0: An Integrated Software Package for Population Genetics Data Analysis”. Evolutionary Bioinformatics Online 1: 47-50.
+Excoffier, Laurent; Guillaume Laval and Stefan Schneider 2006. Arlequin. Version 3.1 User Manual. Bern: Computational and Molecular Populations Genetics Lab, Institute of Zoology, University of Berne.
+Falush, Daniel; Matthew Stephens and Jonathan K. Pritchard. 2003. “Inference of Population Structure Using Multilocus Genotype Data: Linked Loci and Correlated Allele Frequencies”. Genetics 164: 1567-1587.
+Falush, Daniel; Matthew Stephens and Jonathan K. Pritchard. 2007. “Inference of Population Structure Using Multilocus Genotype Data: Dominant Markers and Null Alleles”. Molecular Ecology Notes 7(4): 574-578.
+Gannett, Lisa. 2001. “Racism and human genome diversity research: the ethical limits of ‘population thinking’ ”. Philosophy of Science 68(3): s479-s492.
+Gerson, Elihu. 2015. Resituating New Data Collection Technology. Slides deposited from Resituating Data Collection (panel presentation). Meeting of the International Society for the History, Social Studies, and Philosophy of Biology. Montreal, Quebec.
+Gerson, Elihu M. in press. “Grounded theory Methodology for the history of sociology” Forthcoming in Stephan Moebius and Andrea Ploder (Eds.) Handbuch Geschichte der deutschsprachigen Soziologie. Band 2: Forschungsdesign, Theorien und Methoden. Berlin: Springer.
+Ghamari-Tabrizi, Sharon. 2009. The Worlds of Herman Kahn: The Intuitive Science of Thermonuclear War. Cambridge: Harvard University Press.
+Ghiselin, Michael T. 1976. The Economy of Nature and the Evolution of Sex. Berkeley: University of California Press.
+Ghiselin, Michael T. 1995. “Perspective: Darwin, Progress, and Economic Principles.” Evolution, 1029-1037.
+Gilman, Nils. 2003. Mandarins of the Future: Modernization Theory in Cold War America. Baltimore: John Hopkins University Press.
+Gómez Gutiérrez, Alberto; Ignacio Briceño Balcázar, and Jaime Eduardo Bernal Villegas. 2007. Hereditas, Diversitas et Variatio. Aproximación a la Historia de la Genética Humana en Colombia. Bogotá: Academia Nacional de Medicina / Instituto de Genética Humana, Pontificia Universidad Javeriana.
+Gordon, Scott. 1989. “Darwin and Political Economy: The Connection Reconsidered.” Journal of the History of Biology 22(3): 437-459.
+Griesemer, James. 2013. “Integration of Approaches in David Wake’s Model-Taxon Research Platform for Evolutionary Morphology.” Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences 44(4): 525-536.
+Griesemer, J., 2015. “What Salamander Biologists Have Taught Us About Evo-Devo,” in Alan C. Love (ed), Conceptual Change in Biology: Scientific and Philosophical Perspectives on Evolution and Development (Boston Studies in the Philosophy and History of Science, vol. 307). Springer Verlag, Dordrecht, pp 271-301.
+Hagen, Joel Bartholemew. 1992. An Entangled Bank: the Origins of Ecosystem Ecology. New Brunswick: Rutgers University Press.
+Hannan, Michael T., and John Freeman. 1977. “The Population Ecology of Organizations.” American Journal of Sociology 82(5): 929-964.
+Hardie, Jeremy and Nancy Cartwright. 2012. Evidence-Based Policy: a Practical Guide to Doing it Better. Oxford University Press.
+HGDP-CEPH. 2015. “HGDP-CEPH Human Genome Diversity Cell Line Panel”. Available at: http://www.cephb.fr/en/hgdp_panel.php
+Horton, Robert. 2003. “Read All About It: The Lancet’s Paper of the Year, 2003”. Lancet 362: 2101-2103.
+Howlett, Peter, and Mary S. Morgan, eds. 2011. How Well Do Facts Travel?: The Dissemination of Reliable Knowledge. Cambridge: Cambridge University Press.
+Hubisz, M., D. Falush, M. Stephens and J. K. Pritchard. 2009. “Inferring weak population structure with the assistance of sample group information”. Molecular Ecology Resources 9(5): 1322-1332.
+Hughes, Agatha C. 2011. Systems, Experts, and Computers: The Systems Approach in Management and Engineering, World War II and After. Cambridge and London: MIT Press.
+Hughes, E. C. 1942. “The study of institutions”. Social Forces 20: 307-310. Reprinted in Hughes, E. C. 1970. The Sociological Eye: Selected Papers. Chicago: Aldine.
+Kelty, C. M. 2008. Two Bits: The Cultural Significance of Free Software, Durham NC: Duke University Press.
+Kent, W. 1978. Data and Reality: Basic Assumptions in Data Processing Reconsidered. New York: North-Holland.
+Kevles, Daniel J. and Leroy Hood, eds. 1992. The Code of Codes: Scientific and Social Issues in the Human Genome Project. Cambridge and London: Harvard University Press.
+Latour, Bruno. 1983. "Give Me a Laboratory and I Will Raise the World". In Knorr-Cetina, Karin and Michael Mulkay (eds.), Science Observed: Perspectives on the Social Study of Science, pp. 141-170. London: Sage.
+Latour, Bruno. 1999. Pandora’s Hope: Essays on the Reality of Science Studies, Cambridge MA: Harvard University Press.
+Latour, Bruno. 2004. “Why Has Critique Run Out of Steam? From Matters of Fact to Matters of Concern,” Critical Inquiry 30: 225-248.
+Kingsland, Sharon E. 1995. Modeling Nature. Chicago and London: University of Chicago Press.
+Leonelli, Sabina. 2011. "Packaging Small Facts for Re-Use: Databases in Model Organism Biology". In Howlett, Peter, and Mary S. Morgan, eds., How Well Do Facts Travel?: The Dissemination of Reliable Knowledge, pp. 325-348. Cambridge: Cambridge University Press.
+Leonelli, Sabina. 2015. “What Counts as Scientific Data? A Relational Framework,” Philosohy of Science 82(5): 810-821.
+Light, Jennifer S. 2003. From Warfare to Welfare: Defense Intellectuals and Urban Problems in Cold War America. Baltimore: Johns Hopkins University Press.
+Lock, Margaret. 1997. “The Human Genome Diversity Project: a Perspective from Cultural Anthropology”.
+In: Knoppers, Bartha Maria; Claude M. Laberge and Marie Hirtle (eds.), Human DNA: Law and Policy, pp. 229-237. London and Boston: Kluwer Law International.
+Manserus, Erika. 2011. “Using Models to Keep us Healthy: The Productive Journeys of Facts Across Public Health Research Networks,” in Howlett, Peter, and Mary S. Morgan (eds.), Howlett, Peter, and Mary S. Morgan, eds. 2011. How Well Do Facts Travel?: The Dissemination of Reliable Knowledge, pp. 376-402. Cambridge: Cambridge University Press.
+M’charek, Amâde. 2005. The Human Genome Diversity Project: An Ethnography of Scientific Practice. Cambridge Studies in Society and the Life Sciences. Cambridge and New York: Cambridge University Press.
+Meadows, Donella. H., Dennis. L. Meadows, Jøgen Randers, William W. Behrens. 1972. The Limits to Growth. Washington, DC: Potomac Associates.
+Meadows, Donella H., Dennis L. Meadows, and Jørgen Randers. 1992. Beyond the Limits: Global Collapse or a Sustainable Future. Earthscan Publications, Ltd.
+Meadows, Donella, Jorgen Randers, and Dennis Meadows. 2004. Limits to Growth: The 30-year Update. Chelsea Green Publishing.
+Morgan, Mary S. 2012. The World in the Model: How Economists Work and Think. Cambridge University Press.
+Morgan, Mary S. 2014 “Resituating Knowledge: Generic Strategies and Case Studies.” Philosophy of Science 81(5):1012-1024.
+NIH 2008. “News Release: GenBank Celebrates 25 Years of Service,” Thursday, April 3, 2008. Accessible at: http://www.nih.gov/news-events/news-releases/genbank-celebrates-25-years-service-two-day-conference-leading-scientists-will-discuss-dna-database-april-7-8-meeting
+Oakes, Jason. Submitted for review December 2015. “Model Propagation of Garrett Hardin’s Tragedy of the Commons: A Case Study.” Isis.
+Ordóñez Vásquez, Adriana; Clemencia Durán Franch and Jaime Eduardo Bernal Villegas. 2006. Bibliografía Anotada. 25 años de Investigación en el Instituto de Genética Humana. Bogotá: Facultad de Medicina, Pontificia Universidad Javeriana.
+Oreskes, Naomi. 2004. “The Scientific Consensus on Climate Change.” Science 306(5702): 1686-1686.
+Oreskes, Naomi. 2011. “My Facts Are Better Than Your Facts: Spreading Good News About Global Warming.” In Howlett, Peter, and Mary S. Morgan, eds. How Well do Dacts Travel?: The Dissemination of Reliable Knowledge, pp. 136-166. Cambridge: Cambridge University Press.
+Oreskes, Naomi, and Erik M. Conway. 2011. Merchants of Doubt: How a Handful of Scientists Obscured the Truth on Issues from Tobacco Smoke to Global Warming. New York: Bloomsbury Publishing, USA.
+Peterson, Garry D., Graeme S. Cumming, and Stephen R. Carpenter. 2003. “Scenario Planning: a Tool for Conservation in an Uncertain World.” Conservation Biology 17(2): 358-366.
+Poovey, Mary. 1998. A History of the Modern Fact: Problems of Knowledge in the Sciences of Wealth and Society. Chicago: University of Chicago Press.
+Pritchard, Jonathan K., Matthew Stephens and Peter Donelly (2000). “Inference of Population Structure Using Multilocus Genotype Data”. Genetics 155: 945-959.
+Reardon, Jennifer E. 2005. Race to the Finish. Identity and Governance in an Age of Genomics. In-formation Series. Princeton and Oxford: Princeton University Press.
+Rheinberger, Hans-Jorg. 1997. “Toward a History of Epistemic Things: Synthesizing Proteins in the Test Tube.” Stanford: Stanford University Press.
+Ringland, Gill, and Peter Préfacier Schwartz. 1998. Scenario Planning: Managing for the Future. New York: John Wiley & Sons.
+Robertson, Thomas. 2012. The Malthusian Moment: Global Population Growth and the Birth of American Environmentalism. New Brunswick: Rutgers University Press.
+Rosenberg, N., J. K. Pritchard, J. L. Weber, H. M. Cann, K. K. Kidd, L. A. Zhivotovsky and M. W. Feldman. 2002. “Genetic Structure of Human Populations.” Science 298(5602): 2381-2385.
+Schoemaker, Paul JH. 1995. “Scenario planning: a Tool for Strategic Thinking.” Sloan Management review 36(2): 25-50.
+Shapin, S. and S. Schaffer. 1985. Leviathan and the Air Pump: Hobbes, Boyle, and the Experimental Life. Princeton, NJ: Princeton University Press.
+Shapiro, Barbara. 1994. “The Concept “Fact”: Legal Origins and Cultural Diffusion.” Albion 26(2): 227-252.
+Shapiro, Barbara J. 2003. A Culture of Fact: England, 1550-1720. Ithaca: Cornell University Press.
+Strauss, A. L. 1987. Qualitative Analysis for Social Scientists. New York: Cambridge University Press.
+Tarrow, Sidney. 2010. "The Strategy of Paired Comparison: Toward a Theory of Practice." Comparative Political Studies 43(2): 230-259.
+Vermeij, Geerat J. 2009. “Comparative Economics: Evolution and the Modern Economy.” Journal of Bioeconomics 11(2): 105-134.
+Vermeij, Geerat J. 2009. Nature: an Economic History. Princeton: Princeton University Press.
+Warner, Michael. 2002 “Publics and Counterpublics.” Public Culture 14(1): 49-90.
+Watt, Kenneth EF, ed. 2013. Systems Analysis in Ecology. Philadelphia: Elsevier.
+Yellin, Joel, and Paul A. Samuelson. 1974. “A Dynamical Model for Human Population.” Proceedings of the National Academy of Sciences 71(7): 2813-2817.
+ 
+
+ 
+Budget Justification
+Senior Personnel
+James Griesemer (Principal Investigator) will contribute conceptual articulation and theoretical integration of all aspects of the project, drawing on his wide experience and expertise in history, philosophy and social studies of biology. His integrative account of the project’s work in Year 1 will be presented at the 2017 meeting of the International Society for History, Philosophy, and Social Studies of Science meeting in São Paolo Brazil.
+Mario Biagioli (co-Principal Investigator) will host and support all aspects of the project in the Center for Science and Innovation Studies, which he directs. As a distinguished historian of science and expert in intellectual property and scientific authorship, he will provide intellectual guidance to the project and training assistance to the junior personnel.
+Other Personnel
+The PI and co-PI will supervise 2 post-doctoral employees (Barragán & Oakes) who will conduct fieldwork interviews, visit archives, and examine scholarly literature related to the empirical and theoretical activities of the project, help build a database, help organize conferences, and participate in graduate seminars related to the project content.
+Fringe Benefits
+The University of California’s Davis composite fringe benefits rates are used for all individual in this research project.
+Participant Support Costs
+Visiting Participant Trainers, total = $11,509
+In Fall 2016 (October-December 2016) we plan for three visitors, Dr. Elihu Gerson one day per week for five weeks, Professor Mary Morgan for one week, and Professor Sabina Leonelli for one week. These trainers will participate in a graduate seminar, “Resitutating Knowledge: Taking the Institutional Turn,” and offer training in their areas of expertise through guidance of the participant team in addition to the seminar during their visits.
+Gerson, Elihu, Tremont Research Institute, San Francisco
+Dr. Gerson will commute by train to Davis from San Francisco one day per week for five weeks. Each round trip involves three trains: SF MUNI, BART, AMTRAK. Because Dr. Gerson is an independent scholar without an academic appointment, we propose to pay him a stipend for his training contributions.
+Stipend
+ 
+ 
+ $  5,200
+Ground Transportation
+SF MUNI + BART
+$6.00/day for 5 days
+ $       30
+Ground Transportation
+AMTRAK
+$19.55/day for 5 days
+ $     196
+Meals & Incidentals
+ 
+$64/day for 5 days
+ $     320
+ 
+ 
+TOTAL:
+ $  5,746
+Leonelli, Sabina, Exeter University
+Airfare
+LHR-SMF (United Airlines, round trip)
+ $     902
+Ground Transportation
+Exeter-Heathrow (round trip) £49.50
+ $       71
+Lodging
+Davis (8 days)
+$179/day
+ $  1,432
+Meals & Incidentals
+8 days
+$64/day
+ $     512
+ 
+ 
+TOTAL:
+ $  2,917
+Morgan, Mary, London School of Economics and Political Science
+Airfare
+LHR-SMF (United Airlines, round trip)
+ $     902
+Lodging
+Davis (8 days)
+$179/day
+ $  1,432
+Meals & Incidentals
+8 days
+$64/day
+ $     512
+ 
+ 
+TOTAL:
+ $  2,846
+Travel
+PI Griesemer (Year 1)
+Conference travel to attend the 2017 International Society for the History, Social Studies, and Philosophy of Biology (ISHSSPB) meeting in São Paulo, Brazil with airfare (Delta) $1,000, lodging $500 ($100/day*5 days), meals & incidentals $490 ($98/day*5 days).
+Post-Doc Barragán (Year 1)
+Fieldwork US: Barragán will visit Berkeley CA, Stanford CA, Austin TX, and Washington DC.
+Labs / Organizations to visit: Department of Biological Sciences, Stanford University; Department of Genetics, Stanford University; Morrison Institute for Population and Resource Studies; Pritchard Lab; Rosenberg Lab; Stanford Human Genome Center. People to interview:
+Bolnick, Deborah (for ancient DNA); Excoffier, Laurent (via Skype, Berne, Switzerland); Feldman, Marcus W.; Pritchard, Jonathan K.; Rosenberg, Noah; Smith, David at UCD (for ancient DNA); Wells, Spencer.
+Stanford CA: Barragán will reside in Stanford for two months while doing intensive daily fieldwork with car rental $1,460 ($730/month*2 months) from Enterprise Eco Car Rental; Lodging (Room / Studio) $1,600 ($800/month*2 months); Meals and incidentals $3,968 ($64/day*62 days).
+Austin TX with airfare (JetBlue) $300, lodging $500 ($100/day*5 days), meals & incidentals $295 ($59/day*5 days).
+Washington DC with airfare (American) $500, lodging $800 ($160/day*5 days), meals & incidentals $345 ($69/day*5 days).
+Conference travel to attend the 2017 International Society for the History, Social Studies, and Philosophy of Biology (ISHSSPB) meeting in São Paulo, Brazil with airfare (Delta) $1,000, lodging $500 ($100/day*5 days), meals & incidentals $490 ($98/day*5 days) and also to attend
+the 2017 Society for Social Studies of Science (4S) meeting in Boston MA (August 30-September 2) with airfare $400 (United), lodging $1,000 ($200/day* 5 days), meals & incidentals $345 ($69/day*5 days).
+Post-Doc Barragán (Year 2)
+Fieldwork in Colombia to visit labortories/organizations such as Instituto de Genética Humana (IGH) and Pontificia Universidad Javeriana (PUJ). People to interview: Bernal Villegas, Jaime; Briceño Balcázar, Ignacio; Gómez Gutiérrez, Alberto; Yunis, Emilio José with airfare (United, SMF-Bogotá) $1,200, lodging $1500 ($500/month*3 months), meal & incidentals $6,510 ($70/day*93 days).
+Post-Doc Oakes (Year 1)
+Conference and research travel to Philadelphia to attend the American Philosophical Society meeting and to Princeton University in New Jersey with airfare $364 (OAK- PHL) and meals and Incidentals $320 ($64/day*5 days).
+Conference travel to attend the 2017 History of Science Society meeting in Toronto, Canada with airfare $462 (United Airlines), lodging $531 ($177/night*3 nights), meals & Incidental $318 ($106/day*3 days) and also to attend the 2017 International Society for the History, Social Studies and the Philosophy of Biology (ISHSSPB) meeting in São Paulo, Brazil with  airfare $744 (SFO-São Paulo), lodging $500 ($100/night*5 nights; ISHPSSB organizing committee estimates, https://www.youtube.com/watch?v=NFpZnIWB0uQ), meals & Incidentals $490 ($98/day*5 days).
+Post-Doc Oakes (Year 2)
+Research travel to Oxford, UK with airfare $1,951 (United; SFO-LHR), train tickets $38.40 to Oxford ($19.18 each way). Train and accommodation costs are dependent on currency exchange at the time of travel, lodging $870 ($174/day*5 days), meals & incidentals $450 ($90/day*5 days).
+The rest of Oakes’ travel in Year 2 will be local (South bay and San Francisco) and within medium-range driving distance (Santa Barbara, Los Angeles) with total approximate mileage of 2,500 miles at $0.54/mile to a total request of $1,350.
+Other Direct Costs
+Material and Supplies
+Funds are requested for Post-Doctoral employees Barragán (Yr 1: $500 and Yr 2: $500) and Oakes (Yr 1: $250 and Yr 2: $250) for project related supplies and books.
+Regional Conference
+For the regional conference, we will invite 10 participants from sister campuses of the University of California (e.g. Berkeley, UCLA, San Diego) and a few other nearby universities to engage with project participants on our concepts, arguments, and empirical case studies in progress. We will invite scholars with expertise in institution-level studies in their respective disciplines or whose expertise is related to our case study material. Conference participants will travel to Davis on a Wednesday and depart on a Saturday, spending three nights in Davis. Participant costs are estimated as follows (per invited participant):
+Airfare or Other Travel
+$259/person for 10 participants
+ $  2,590
+Ground Transportation
+$48/person for 10 participants
+ $     480
+Lodging
+$179/night for 3 nights for 10 participants
+ $  5,370
+Meals & Incidental
+$64/day for 4 days for 10 participants
+ $  2,560
+Conference Refreshments
+$10/day for 34 ppl for 3 days
+ $  1,020
+Conference Banquet
+$50/ppl for 14 people
+ $     700
+Conference Supplies & Expenses
+ 
+ $  1,000
+ 
+TOTAL:
+ $13,720
+National Conference
+The national conference will be similarly structured, but include a larger audience and more expensive airfares to bring 10 invited participants from around the nation. Every effort will be made to include a substantial representation of scholars who are women and underrepresented minorities among the invited participants.
+Airfare or Other Travel
+$500/person for 10 participants
+ $  5,000
+Ground Transportation
+$100/person for 10 participants
+ $  1,000
+Lodging
+$179/night for 3 nights for 10 participants
+ $  5,370
+Meals & Incidental
+$64/day for 4 days for 10 participants
+ $  2,560
+Conference Refreshments
+$10/day for 54 ppl for 3 days
+ $  1,620
+Conference Banquet
+$50/ppl for 14 people
+ $     700
+Facilities
+$500/day for 3 days
+ $  1,500
+Conference Supplies & Expenses
+ 
+ $  1,000
+ 
+TOTAL:
+ $18,750
+ 
+
+ 
+
